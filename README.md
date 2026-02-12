@@ -1,25 +1,63 @@
-## Hey there 👋
+<h2> Heyy!! I'm Dinesh</h2>
 
-I'm a software enigineer based in India. I usually work on full stack applications.
-I code to build. build to solve.
+### About Me
 
-#Tools & Tech
-NextJS
-Tailwind
-AWS
+I'm a software engineer based in India.  
+I enjoy crafting scalable full-stack applications and exploring cloud-native architectures.
 
-Currently learning frontend and cloud technologies...
-<!--
-**dineshragunathan/dineshragunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- Next.js  
+- Tailwind CSS  
+
+**Backend & Databases**
+- Python  
+- C++  
+- Java (basic)  
+- PostgreSQL  
+
+**Cloud**
+- AWS  
+- Full-stack application development  
+
+---
+
+### Currently Learning
+
+- Advanced **frontend engineering**
+- **Cloud architecture & AWS services**
+- Writing **production-grade systems**
+
+---
+
+### On My Learning Radar
+
+- Rust  
+- TypeScript  
+
+---
+
+### Open To
+
+- Collaborating on interesting full-stack projects  
+- Learning by building with other developers  
+- Contributing to meaningful products  
+
+---
+
+### Let's Connect
+
+- 🌐 GitHub: [@dineshragunathan](https://github.com/dineshragunathan)
+
+---
+
+<p align="center">
+  <i>“Build things that matter.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineshragunathan&label=Profile%20views&color=0e75b6&style=flat" alt="dineshragunathan" />
+</p>
