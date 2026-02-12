@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
+Currently learning frontend and cloud technologies...
 <!--
 **dineshragunathan/dineshragunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
