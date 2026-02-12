@@ -1,5 +1,13 @@
 ## Hey there 👋
 
+I'm a software enigineer based in India. I usually work on full stack applications.
+I code to build. build to solve.
+
+#Tools & Tech
+NextJS
+Tailwind
+AWS
+
 Currently learning frontend and cloud technologies...
 <!--
 **dineshragunathan/dineshragunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
