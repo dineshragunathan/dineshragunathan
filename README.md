@@ -1,4 +1,4 @@
-<h2>Heyy!! 👋</h2>
+<h2>Heyy! 👋</h2>
 
 I'm Dinesh — a software engineer based in India.
 
@@ -8,7 +8,7 @@ If I can imagine it, I’ll probably try building it.
 ---
 
 **Stack**  
-Next.js · Tailwind · Python · C++ · PostgreSQL · AWS  
+Next.js · Tailwind · Python · C++ · PostgreSQL · AWS    
 
 **Learning**  
 Rust · TypeScript · Better system design  
