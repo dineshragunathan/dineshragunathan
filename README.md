@@ -8,10 +8,10 @@ If I can imagine it, I’ll probably try building it.
 ---
 
 **Stack**  
-Next.js · Tailwind · Python · C++ · PostgreSQL · AWS    
+Next.js · Tailwind · Python · C++ · PostgreSQL · AWS · TS · Prisma   
 
 **Learning**  
-Rust · TypeScript · Better system design  
+Rust · Better system design  
 
 ---
 
